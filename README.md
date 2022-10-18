@@ -1,3 +1,3 @@
-<h1>Hi</h1>
-<hr>
-<h3>I am Filippo Lizzi</h3>
+<h1>Hello, World! 👋</h1>
+
+<h2>Programming languages and Frameworks</h2>
