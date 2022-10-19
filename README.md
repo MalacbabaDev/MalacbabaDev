@@ -13,3 +13,4 @@
   <li>C</li>
   <li>C++</li>
 </ul>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Setr0)](https://github.com/anuraghazra/github-readme-stats)
