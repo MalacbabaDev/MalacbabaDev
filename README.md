@@ -29,3 +29,7 @@
   <li>Software Developer ⚙️</li>
   <li>Android App Developer 📱</li>
 </ul>
+
+<h2>My stats 🔥</h2>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Setr0&theme=dark&background=000000)](https://git.io/streak-stats)
+
