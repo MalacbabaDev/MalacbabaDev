@@ -26,7 +26,8 @@
 
 <h2>About me 👨‍💻</h2>
 <ul>
-  <li>Fullstack Developer 🌐</li>
+  <li>Web Developer 🌐</li>
+  <li>Game Developer 🎮</li>
   <li>Software Developer ⚙️</li>
   <li>Android App Developer 📱</li>
 </ul>
