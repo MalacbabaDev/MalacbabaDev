@@ -24,14 +24,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="unity" width="40" height="40">&nbsp;
 </div>
 
-<h2>About me 👨‍💻</h2>
+<h2>👨‍💻 About me</h2>
 <ul>
-  <li>Web Developer 🌐</li>
-  <li>Game Developer 🎮</li>
-  <li>Software Developer ⚙️</li>
-  <li>Android App Developer 📱</li>
-</ul>
-
+  <li>🎮 Game Developer</li>
+  <li>🌐 Web Developer</li>
+  <li>⚙️ Software Developer</li>
 <h2>My stats 🔥</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Setr0&theme=dark&hide_border=true&locale=en&background=DD272700)](https://git.io/streak-stats)
