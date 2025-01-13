@@ -31,4 +31,4 @@
   <li>⚙️ Software Developer</li>
 <h2>My stats 🔥</h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Setr0&theme=dark&hide_border=true&locale=en&background=DD272700)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Setr0)](https://git.io/streak-stats)
