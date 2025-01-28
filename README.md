@@ -32,5 +32,4 @@
 <h2>My stats 🔥</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Setr0&theme=dark&hide_border=true&locale=en&background=DD272700)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Setr0)](https://github.com/anuraghazra/github-readme-stats)
 
