@@ -26,4 +26,4 @@
   <li>⚙️ Software Developer</li>
 <h2>My stats 🔥</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats-inky-five.vercel.app?user=Setr0&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
