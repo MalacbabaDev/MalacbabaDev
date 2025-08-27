@@ -27,4 +27,4 @@
 </ul>
 <h2>My stats 🔥</h2>
 
-[![GitHub Streak](https://github-streak-stats-gules.vercel.app?user=Setr0&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-streak-stats-gules.vercel.app?user=MalacbabaDev&theme=highcontrast)](https://git.io/streak-stats)
