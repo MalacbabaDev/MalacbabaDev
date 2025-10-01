@@ -25,6 +25,6 @@
   <li>🌐 Web Developer</li>
   <li>⚙️ Software Developer</li>
 </ul>
-<h2>My stats 🔥</h2>
 
+<h2>My stats 🔥</h2>
 [![GitHub Streak](https://github-streak-stats-gules.vercel.app?user=MalacbabaDev&theme=highcontrast)](https://git.io/streak-stats)
